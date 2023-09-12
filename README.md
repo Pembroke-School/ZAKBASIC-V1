@@ -8,10 +8,17 @@ Thank you to [Nomic AI](https://gpt4all.io/index.html) for providing us with the
 This section will run through what you will need to run the code in this repository.
 ### Main Setup
 The code in this repository requires the following Python packages: TKinter and GPT4ALL.  
+You can do so with the following code:
+```
+pip install tkinter gpt4all
+```
 Make sure that all packages are up-to-date as well.  
 
 ### Run Terminal Version
-To run the skinned-down version (without GUI), simply clone into this repository.  
+To run the skinned-down version (without GUI), simply clone into this repository with:
+```
+git clone https://github.com/Pembroke-School/ZAK
+```
 Then, CD into the */AI Python Skinned Down Section/* directory. To do so, run the following command:
 ```
 cd AI\ Python\ Skinned\ Down\ Section
@@ -23,7 +30,10 @@ python3 runmodel.py
 The model will start downloading. This should take around 10 minutes providing that you have an average internet connection. The model should only have to be downloaded once. Check out [NomicAI's website](https://gpt4all.io/index.html) for more information on the llama-2-7b-chat.ggmlv3.q4_0.bin model used in this project.
 
 ### Run GUI Version
-To run the GUI version (the full version), simply clone into this repository.  
+To run the skinned-down version (without GUI), simply clone into this repository with:
+```
+git clone https://github.com/Pembroke-School/ZAK
+```
 Then, CD into the */Main/* directory. To do so, run the following command:
 ```
 cd Main
