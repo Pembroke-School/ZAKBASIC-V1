@@ -1,10 +1,11 @@
 # ZAK
 ZAK is a chatbot that is designed to be used in schools and prioritises privacy and safety.
 ### Credits:
-The code in this repo was written by Oscar Zhou and Louis Kent.
+The code in this repository was written by Oscar Zhou and Louis Kent.
 Thank you to [Nomic AI](https://gpt4all.io/index.html) for providing us with their awesome GPT4ALL models! They're truly amazing.
 
 ## Basic Setup
+This section will run through what you will need to run the code in this repository.
 ### Main Setup
 The code in this repository requires the following Python packages: TKinter and GPT4ALL.  
 Make sure that all packages are up-to-date as well.  
